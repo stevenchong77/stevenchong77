@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @stevenchong77
 - 👀 I’m interested in Anime, KPop, and Kdramas
 - 🌱 I’m currently learning Data structures and Data science coding
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
+- 💞️ I’m looking to collaborate on anything that sounds cool and fun!
+- 📫 How to reach me: stevenchong.102703@gmail.com, insta: @s.t.even._.ing
+- 😄 Pronouns: he/him
 - ⚡ Fun fact: I am rank 1000+ in Puzzle and Dragons
 
 <!---
